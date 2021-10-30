@@ -6,6 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
 
     public CharacterController2D controller;
+    public Animator animator;
 
     public float runSpeed = 40f;
     float hMove = 0f;
@@ -16,6 +17,7 @@ public class PlayerScript : MonoBehaviour
     void Update()
     {
         hMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        animator.SetFloat("speed", Mathf.Abs(hMove));
 
         if (Input.GetButtonDown("Jump"))
         {
