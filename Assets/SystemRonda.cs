@@ -17,11 +17,11 @@ public class SystemRonda : MonoBehaviour{
         }else{
             transform.Translate(Vector2.left*speed * Time.deltaTime);
         }
-    timer += Time.deltaTime;
-    if(timer >= moveTime){
-        dirRight = !dirRight;
-        timer = 0f;
-    }
+        timer += Time.deltaTime;
+        if(timer >= moveTime){
+            dirRight = !dirRight;
+            timer = 0f;
+        }
 
             if(energia <= 0){
             Invoke("DestroyBody", .5f);
