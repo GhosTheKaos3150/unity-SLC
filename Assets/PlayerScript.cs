@@ -28,7 +28,7 @@ public class PlayerScript : MonoBehaviour
 
         Atirar();
         hMove = Input.GetAxisRaw("Horizontal") * runSpeed;
-        animator.SetFloat("speed", Mathf.Abs(hMove));
+        // animator.SetFloat("speed", Mathf.Abs(hMove)); // desativei por enquanto porque começou a dar erro e não sei o que aconteceu 
 
         if (Input.GetButtonDown("Jump"))
         {
