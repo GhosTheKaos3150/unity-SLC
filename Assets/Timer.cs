@@ -31,7 +31,7 @@ public class Timer : MonoBehaviour
 
         if(time <= 0){
             stopTimer = true;
-            GameController.instance.ShowGameOver();
+            // GameController.instance.ShowGameOver();
             // Destroy(gameObject);
         } if(stopTimer == false){
             timerText.text = textTime;
