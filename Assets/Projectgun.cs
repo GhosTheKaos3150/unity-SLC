@@ -12,7 +12,7 @@ public class Projectgun : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Invoke("DestruirProjetil", tempoDeVida);
+        // Invoke("DestruirProjetil", tempoDeVida);
     }
 
     // Update is called once per frame
@@ -22,6 +22,7 @@ public class Projectgun : MonoBehaviour
 
         if(hitInfo.collider != null){
             if(hitInfo.collider.CompareTag("Inimigo")){
+                Debug.Log(" ta acertando o player");
                 // hitInfo.collider.GetComponent<EnemyFollow>().TakeDamage(dano);
                 // hitInfo.collider.GetComponent<SystemRonda>().TakeDamage(dano);
             }
