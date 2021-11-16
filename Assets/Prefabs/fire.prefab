@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dano: 2
-  tempoDeVida: 10
+  tempoDeVida: 2
   distancia: 3
   layerInimigo:
     serializedVersion: 2

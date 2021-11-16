@@ -54,7 +54,7 @@ public class PlayerScript : MonoBehaviour
 
         void Atirar(){
         if (Input.GetMouseButtonDown(0)){
-            Debug.Log(" ta atirando");
+            Debug.Log(" ta atirando verde");
             Transform shotPoint = tiroverde;
             
             GameObject projectile = Instantiate(projetilPrefab, shotPoint.position, transform.rotation);

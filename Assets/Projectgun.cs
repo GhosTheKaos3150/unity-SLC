@@ -6,18 +6,29 @@ public class Projectgun : MonoBehaviour
 {
 
     public int dano;
+
+    public float Speed;
     public float tempoDeVida;
     public float distancia;
+
+    public float alvo;
     public LayerMask layerInimigo;
+
+    private Transform Target;
     // Start is called before the first frame update
     void Start()
     {
-        // Invoke("DestruirProjetil", tempoDeVida);
+        Target = GameObject.FindGameObjectWithTag("Inimigo").GetComponent<Transform>();
+        Invoke("DestruirProjetil", tempoDeVida);
     }
 
     // Update is called once per frame
     void Update()
     {
+
+                if(Vector2.Distance(transform.position, Target.position) > alvo){
+        transform.position = Vector2.MoveTowards(transform.position, Target.position, Speed * Time.deltaTime);
+        }
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.forward, distancia, layerInimigo);
 
         if(hitInfo.collider != null){
