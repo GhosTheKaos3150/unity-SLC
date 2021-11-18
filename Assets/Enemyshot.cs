@@ -21,7 +21,7 @@ public class Enemyshot : MonoBehaviour
 
     void Atirar(){
         if (Input.GetMouseButtonDown(1)){
-        Debug.Log(" ta atirando no player 2");
+        // Debug.Log(" inimigo atirando");
         Transform shotPoint = tiroazul;
 
         GameObject projectgun = Instantiate(projetilPrefab, shotPoint.position, transform.rotation);

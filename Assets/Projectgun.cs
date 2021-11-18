@@ -18,7 +18,7 @@ public class Projectgun : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Target = GameObject.FindGameObjectWithTag("Inimigo").GetComponent<Transform>();
+        Target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         Invoke("DestruirProjetil", tempoDeVida);
     }
 
