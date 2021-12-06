@@ -54,7 +54,7 @@ public class PlayerScript : MonoBehaviour
 
         void Atirar(){
         if (Input.GetMouseButtonDown(0)){
-            Debug.Log(" ta atirando verde");
+            // Debug.Log(" ta atirando verde");
             Transform shotPoint = tiroverde;
             
             GameObject projectile = Instantiate(projetilPrefab, shotPoint.position, transform.rotation);
@@ -70,8 +70,8 @@ public class PlayerScript : MonoBehaviour
             transform.eulerAngles = new Vector3(0f, 0f, 0f);
         }
         else if(Input.GetAxis("Horizontal") < 0f || Input.GetAxis("Horizontal") == 0f){
+            projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(- velocidadeProjetil, 0);
             transform.eulerAngles = new Vector3(0f, 180f, 0f);
-            projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidadeProjetil, 0);
         }
         
         }

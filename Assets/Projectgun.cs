@@ -32,7 +32,7 @@ public class Projectgun : MonoBehaviour
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.forward, distancia, layerInimigo);
 
         if(hitInfo.collider != null){
-            if(hitInfo.collider.CompareTag("Inimigo")){
+            if(hitInfo.collider.CompareTag("Player")){
                 Debug.Log(" ta acertando o player");
                 // hitInfo.collider.GetComponent<EnemyFollow>().TakeDamage(dano);
                 // hitInfo.collider.GetComponent<SystemRonda>().TakeDamage(dano);

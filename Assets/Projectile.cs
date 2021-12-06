@@ -22,8 +22,9 @@ public class Projectile : MonoBehaviour
 
         if(hitInfo.collider != null){
             if(hitInfo.collider.CompareTag("Inimigo")){
-                hitInfo.collider.GetComponent<EnemyFollow>().TakeDamage(dano);
+                // hitInfo.collider.GetComponent<EnemyFollow>().TakeDamage(dano);
                 // hitInfo.collider.GetComponent<SystemRonda>().TakeDamage(dano);
+                hitInfo.collider.GetComponent<Enemyshot>().TakeDamage(dano);
             }
             DestruirProjetil();
         }

@@ -13,9 +13,15 @@ public class Enemyshot : MonoBehaviour
 
     public float velocidadeProjetil;
 
+    public int energia;
+
     void Update()
     {
         Atirar();
+
+        if(energia <= 0){
+            Invoke("DestroyBody", .5f);
+        }
     }
 
 
@@ -36,5 +42,13 @@ public class Enemyshot : MonoBehaviour
         if(tempoUltimoTiro <= 0 ){
             estaAtirando = true;
         }
+    }
+
+        private void DestroyBody(){
+        Destroy(gameObject);
+    }
+
+        public void TakeDamage(int damage){
+        energia -= damage;
     }
 }
