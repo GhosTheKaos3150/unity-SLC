@@ -179,7 +179,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 1567915875103645525}
+  animator: {fileID: 0}
   runSpeed: 30
+  energia: 6
+  tiroverde: {fileID: 0}
+  projetilPrefab: {fileID: 0}
+  velocidadeProjetil: 0
 --- !u!114 &1567915875103645525
 MonoBehaviour:
   m_ObjectHideFlags: 0
