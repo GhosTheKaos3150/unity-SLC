@@ -14,9 +14,12 @@ public class Enemyshot : MonoBehaviour
     public float velocidadeProjetil;
     public int energia;
 
+    public int energia;
+
     void Update()
     {
         Atirar();
+
 
         if (energia <= 0)
         {
