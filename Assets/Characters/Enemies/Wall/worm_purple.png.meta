@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: b471dbf6558d35141b970fddd794cc3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8286373111726767639
+    second: worm_purple_0
+  - first:
+      213: 8261053573497538475
+    second: worm_purple_1
+  - first:
+      213: 6234218533443097759
+    second: worm_purple_2
+  - first:
+      213: 3693024174140806758
+    second: worm_purple_3
+  - first:
+      213: 5101889726541248169
+    second: worm_purple_4
+  - first:
+      213: 1390585316380022005
+    second: worm_purple_5
+  - first:
+      213: 6634834025465390262
+    second: worm_purple_6
+  - first:
+      213: -5970245679612385901
+    second: worm_purple_7
+  - first:
+      213: 860269655056543374
+    second: worm_purple_8
+  - first:
+      213: 276085526141791070
+    second: worm_purple_9
+  - first:
+      213: 4521967343196614445
+    second: worm_purple_10
+  - first:
+      213: -4815044215668248763
+    second: worm_purple_11
+  - first:
+      213: 2393980259059386941
+    second: worm_purple_12
+  - first:
+      213: 3878498944307254298
+    second: worm_purple_13
+  - first:
+      213: -2672689492202403518
+    second: worm_purple_14
+  - first:
+      213: -3568427685659832118
+    second: worm_purple_15
+  - first:
+      213: -6491496065693919842
+    second: worm_purple_16
+  - first:
+      213: -5500314320812018560
+    second: worm_purple_17
+  - first:
+      213: -1694746122549285132
+    second: worm_purple_18
+  - first:
+      213: 5036379086348429125
+    second: worm_purple_19
+  - first:
+      213: -199762052158424829
+    second: worm_purple_20
+  - first:
+      213: -8498378054713367338
+    second: worm_purple_21
+  - first:
+      213: 2446438207491358736
+    second: worm_purple_22
+  - first:
+      213: -1264287783874434921
+    second: worm_purple_23
+  - first:
+      213: 7362994150602085678
+    second: worm_purple_24
+  - first:
+      213: 1978136274274450598
+    second: worm_purple_25
+  - first:
+      213: 8742801396565580315
+    second: worm_purple_26
+  - first:
+      213: -4729901884984973607
+    second: worm_purple_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: worm_purple_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 411
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18d27de83e00d80800000000000000
+      internalID: -8286373111726767639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 411
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7cac6c47825a270800000000000000
+      internalID: 8261053573497538475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 411
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945802d9b4648650800000000000000
+      internalID: 6234218533443097759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 411
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d79e7be1404330800000000000000
+      internalID: 3693024174140806758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 331
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b4b1ecad8dc640800000000000000
+      internalID: 5101889726541248169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 330
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f494b44af95c4310800000000000000
+      internalID: 1390585316380022005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 330
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42a8fa46aa31c50800000000000000
+      internalID: 6634834025465390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 251
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a4e4af2d652da0800000000000000
+      internalID: -5970245679612385901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 250
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e61b081ba40fb00800000000000000
+      internalID: 860269655056543374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 248
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bee41c25ad4d300800000000000000
+      internalID: 276085526141791070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 250
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa629175141ce30800000000000000
+      internalID: 4521967343196614445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 250
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f6b4b0cc68d2db0800000000000000
+      internalID: -4815044215668248763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 250
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a488c9c50293120800000000000000
+      internalID: 2393980259059386941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14592d9d3233d530800000000000000
+      internalID: 3878498944307254298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 170
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494b5e3113b8ead0800000000000000
+      internalID: -2672689492202403518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 170
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0939d1de56a7ec0800000000000000
+      internalID: -3568427685659832118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 170
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d77fb8b299e5a0800000000000000
+      internalID: -6491496065693919842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 170
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08471036445faa3b0800000000000000
+      internalID: -5500314320812018560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_18
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 170
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feaaf4716d0b78e0800000000000000
+      internalID: -1694746122549285132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 170
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547210c5810d4e540800000000000000
+      internalID: 5036379086348429125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3097e71d87d4a3df0800000000000000
+      internalID: -199762052158424829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a5d18f22bf0a80800000000000000
+      internalID: -8498378054713367338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 91
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104772869e73f120800000000000000
+      internalID: 2446438207491358736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 91
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986c4485f8547ee0800000000000000
+      internalID: -1264287783874434921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 11
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e259aed4b2c9e2660800000000000000
+      internalID: 7362994150602085678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7179f570c37b10800000000000000
+      internalID: 1978136274274450598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 11
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a94108c8ba45970800000000000000
+      internalID: 8742801396565580315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: worm_purple_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 11
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62503bb430c5eb0800000000000000
+      internalID: -4729901884984973607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 903929f58887d6a4e83948434be7c677
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4083109165538142199
+    second: hornworm_orange_0
+  - first:
+      213: 2002359894596501219
+    second: hornworm_orange_1
+  - first:
+      213: -5453323913382451600
+    second: hornworm_orange_2
+  - first:
+      213: 927029674046981730
+    second: hornworm_orange_3
+  - first:
+      213: -1742978606939710922
+    second: hornworm_orange_4
+  - first:
+      213: 334334364390497314
+    second: hornworm_orange_5
+  - first:
+      213: 7823616055751528868
+    second: hornworm_orange_6
+  - first:
+      213: 7854013166097260973
+    second: hornworm_orange_7
+  - first:
+      213: 2347732307820822554
+    second: hornworm_orange_8
+  - first:
+      213: -6212125374056598846
+    second: hornworm_orange_9
+  - first:
+      213: 2837849232625886591
+    second: hornworm_orange_10
+  - first:
+      213: -6360989208629883138
+    second: hornworm_orange_11
+  - first:
+      213: -6578236199025444298
+    second: hornworm_orange_12
+  - first:
+      213: -5135025286193765965
+    second: hornworm_orange_13
+  - first:
+      213: -3640648965479354195
+    second: hornworm_orange_14
+  - first:
+      213: 1026272853910324746
+    second: hornworm_orange_15
+  - first:
+      213: 8803749977439998958
+    second: hornworm_orange_16
+  - first:
+      213: 5674655546541333953
+    second: hornworm_orange_17
+  - first:
+      213: 8239608223182056391
+    second: hornworm_orange_18
+  - first:
+      213: -942570221272978836
+    second: hornworm_orange_19
+  - first:
+      213: 8362617467180957732
+    second: hornworm_orange_20
+  - first:
+      213: -2811060817690152067
+    second: hornworm_orange_21
+  - first:
+      213: 1456236843319202244
+    second: hornworm_orange_22
+  - first:
+      213: 6638455554760538957
+    second: hornworm_orange_23
+  - first:
+      213: 763309523973351544
+    second: hornworm_orange_24
+  - first:
+      213: -2361253272022365329
+    second: hornworm_orange_25
+  - first:
+      213: 4627535418347441075
+    second: hornworm_orange_26
+  - first:
+      213: 1564625492401638259
+    second: hornworm_orange_27
+  - first:
+      213: -7617993029005301368
+    second: hornworm_orange_28
+  - first:
+      213: 2596616664040043941
+    second: hornworm_orange_29
+  - first:
+      213: 3795608230316436480
+    second: hornworm_orange_30
+  - first:
+      213: 2050971299892775618
+    second: hornworm_orange_31
+  - first:
+      213: 2838339094733889014
+    second: hornworm_orange_32
+  - first:
+      213: -5927074087631878913
+    second: hornworm_orange_33
+  - first:
+      213: 655918946215483100
+    second: hornworm_orange_34
+  - first:
+      213: 2924094030426913119
+    second: hornworm_orange_35
+  - first:
+      213: -296958247573643244
+    second: hornworm_orange_36
+  - first:
+      213: 430844953709678830
+    second: hornworm_orange_37
+  - first:
+      213: -998756800184162952
+    second: hornworm_orange_38
+  - first:
+      213: -2626165804589024043
+    second: hornworm_orange_39
+  - first:
+      213: -6874990422632197839
+    second: hornworm_orange_40
+  - first:
+      213: 5287245376908216475
+    second: hornworm_orange_41
+  - first:
+      213: 591828022770956911
+    second: hornworm_orange_42
+  - first:
+      213: -7709288176212397169
+    second: hornworm_orange_43
+  - first:
+      213: -2162532953319184694
+    second: hornworm_orange_44
+  - first:
+      213: -8239306008920399701
+    second: hornworm_orange_45
+  - first:
+      213: -8084185516848703154
+    second: hornworm_orange_46
+  - first:
+      213: 2344597282428215734
+    second: hornworm_orange_47
+  - first:
+      213: -7885316913562811663
+    second: hornworm_orange_48
+  - first:
+      213: 5642928677780447720
+    second: hornworm_orange_49
+  - first:
+      213: 5481898125781721739
+    second: hornworm_orange_50
+  - first:
+      213: -7494952230032114023
+    second: hornworm_orange_51
+  - first:
+      213: -3094788909364944170
+    second: hornworm_orange_52
+  - first:
+      213: 3097468420129187443
+    second: hornworm_orange_53
+  - first:
+      213: 2646257904437380816
+    second: hornworm_orange_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hornworm_orange_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7ea0f172e1aa830800000000000000
+      internalID: 4083109165538142199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 798
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeb9e517bfc9cb10800000000000000
+      internalID: 2002359894596501219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07622b13bc6e154b0800000000000000
+      internalID: -5453323913382451600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26601d1b3987ddc00800000000000000
+      internalID: 927029674046981730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 702
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ad0421132bfc7e0800000000000000
+      internalID: -1742978606939710922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 702
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c93b1455bc3a400800000000000000
+      internalID: 334334364390497314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 702
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1dc16f951139c60800000000000000
+      internalID: 7823616055751528868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e77abc5f0ffc60800000000000000
+      internalID: 7854013166097260973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104e5b5812d49020800000000000000
+      internalID: 2347732307820822554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 702
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27a23b2e81ac9a0800000000000000
+      internalID: -6212125374056598846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 606
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e7cc67d0126720800000000000000
+      internalID: 2837849232625886591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 606
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec587440a39b7a0800000000000000
+      internalID: -6360989208629883138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63af87ca70965b4a0800000000000000
+      internalID: -6578236199025444298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 606
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a5cf65b9bcb8b0800000000000000
+      internalID: -5135025286193765965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 606
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b5bc0e01d97dc0800000000000000
+      internalID: -3640648965479354195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 606
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0683f329bd0e3e00800000000000000
+      internalID: 1026272853910324746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee31aa0d5f33d2a70800000000000000
+      internalID: 8803749977439998958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 609
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cddb4a672d60ce40800000000000000
+      internalID: 5674655546541333953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 510
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb672f0608f85270800000000000000
+      internalID: 8239608223182056391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 510
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa921b0615be2f0800000000000000
+      internalID: -942570221272978836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 510
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4204cc3874cfd0470800000000000000
+      internalID: 8362617467180957732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733f87741b1df8d0800000000000000
+      internalID: -2811060817690152067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 510
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c190ea81b7953410800000000000000
+      internalID: 1456236843319202244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b78bea728802c50800000000000000
+      internalID: 6638455554760538957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878aa16c7f1d79a00800000000000000
+      internalID: 763309523973351544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc068d8a42b3fd0800000000000000
+      internalID: -2361253272022365329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb432cf1fe483040800000000000000
+      internalID: 4627535418347441075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 318
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bce19789aa6b510800000000000000
+      internalID: 1564625492401638259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889acb4b3b3774690800000000000000
+      internalID: -7617993029005301368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a577f53919090420800000000000000
+      internalID: 2596616664040043941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6f825395bca430800000000000000
+      internalID: 3795608230316436480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca41aed783867c10800000000000000
+      internalID: 2050971299892775618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd97b55e5ec36720800000000000000
+      internalID: 2838339094733889014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48741358dcebda0800000000000000
+      internalID: -5927074087631878913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 222
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65f9e6eca4a1900800000000000000
+      internalID: 655918946215483100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bf653708749820800000000000000
+      internalID: 2924094030426913119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41020441c0ef0ebf0800000000000000
+      internalID: -296958247573643244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09223e33baaf500800000000000000
+      internalID: 430844953709678830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875640c5bf3b322f0800000000000000
+      internalID: -998756800184162952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 126
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc71306d1cfd8bd0800000000000000
+      internalID: -2626165804589024043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1319bc8c2a02790a0800000000000000
+      internalID: -6874990422632197839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c0f248a1106940800000000000000
+      internalID: 5287245376908216475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a72697378963800800000000000000
+      internalID: 591828022770956911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83bdb1df3b130590800000000000000
+      internalID: -7709288176212397169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 103
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6655e8cb32df1e0800000000000000
+      internalID: -2162532953319184694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 100
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ee8ea6da18ad80800000000000000
+      internalID: -8239306008920399701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 106
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4910e1ba143fcf80800000000000000
+      internalID: -8084185516848703154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ea706ecea98020800000000000000
+      internalID: 2344597282428215734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f285b99b0ab19290800000000000000
+      internalID: -7885316913562811663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e7f32cb5bf4e40800000000000000
+      internalID: 5642928677780447720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8269121d4d931c40800000000000000
+      internalID: 5481898125781721739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ef96028a49cf790800000000000000
+      internalID: -7494952230032114023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2eb7242e91d05d0800000000000000
+      internalID: -3094788909364944170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 10
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3766ac4fd1b6cfa20800000000000000
+      internalID: 3097468420129187443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_orange_54
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 19
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64f0a2b8569b420800000000000000
+      internalID: 2646257904437380816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

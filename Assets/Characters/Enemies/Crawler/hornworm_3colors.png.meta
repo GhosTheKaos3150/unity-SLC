@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 6657401b646000242a2636216ca27e66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4344728928893355125
+    second: hornworm_3colors_0
+  - first:
+      213: 1941830419171384272
+    second: hornworm_3colors_1
+  - first:
+      213: -6079269055790420441
+    second: hornworm_3colors_2
+  - first:
+      213: 2749763791070348477
+    second: hornworm_3colors_3
+  - first:
+      213: 6947687576592910980
+    second: hornworm_3colors_4
+  - first:
+      213: -677120095792228992
+    second: hornworm_3colors_5
+  - first:
+      213: 8410803172757681306
+    second: hornworm_3colors_6
+  - first:
+      213: -6994108145202930266
+    second: hornworm_3colors_7
+  - first:
+      213: -3787743141749944354
+    second: hornworm_3colors_8
+  - first:
+      213: 2560504432519288778
+    second: hornworm_3colors_9
+  - first:
+      213: -2033683242241650948
+    second: hornworm_3colors_10
+  - first:
+      213: -3156795070094221702
+    second: hornworm_3colors_11
+  - first:
+      213: -1323498313646959082
+    second: hornworm_3colors_12
+  - first:
+      213: -1575223474837837329
+    second: hornworm_3colors_13
+  - first:
+      213: 7796294955650135864
+    second: hornworm_3colors_14
+  - first:
+      213: 5127140441029373042
+    second: hornworm_3colors_15
+  - first:
+      213: 3133746257302569983
+    second: hornworm_3colors_16
+  - first:
+      213: -6627950982848296948
+    second: hornworm_3colors_17
+  - first:
+      213: -1728152953261799078
+    second: hornworm_3colors_18
+  - first:
+      213: 5724801377203016470
+    second: hornworm_3colors_19
+  - first:
+      213: -3789877559547910437
+    second: hornworm_3colors_20
+  - first:
+      213: -5424515041711006292
+    second: hornworm_3colors_21
+  - first:
+      213: 3175918873815238176
+    second: hornworm_3colors_22
+  - first:
+      213: 4690516210885828772
+    second: hornworm_3colors_23
+  - first:
+      213: -5831510726808295411
+    second: hornworm_3colors_24
+  - first:
+      213: 3891148007350148432
+    second: hornworm_3colors_25
+  - first:
+      213: -8112148646391028438
+    second: hornworm_3colors_26
+  - first:
+      213: 3874316099151552801
+    second: hornworm_3colors_27
+  - first:
+      213: -4951318142660006830
+    second: hornworm_3colors_28
+  - first:
+      213: -1326124800031909946
+    second: hornworm_3colors_29
+  - first:
+      213: 6534216550738682806
+    second: hornworm_3colors_30
+  - first:
+      213: -2645948456260582446
+    second: hornworm_3colors_31
+  - first:
+      213: -2488851631914659820
+    second: hornworm_3colors_32
+  - first:
+      213: 7993526496652864973
+    second: hornworm_3colors_33
+  - first:
+      213: -3229867078406401123
+    second: hornworm_3colors_34
+  - first:
+      213: -8245673268421143653
+    second: hornworm_3colors_35
+  - first:
+      213: 2549893547261474193
+    second: hornworm_3colors_36
+  - first:
+      213: -8238334871564747057
+    second: hornworm_3colors_37
+  - first:
+      213: -8720953568650807022
+    second: hornworm_3colors_38
+  - first:
+      213: -5360467432442796601
+    second: hornworm_3colors_39
+  - first:
+      213: 8958114642241358727
+    second: hornworm_3colors_40
+  - first:
+      213: 2381848250197169339
+    second: hornworm_3colors_41
+  - first:
+      213: -7535892505549671546
+    second: hornworm_3colors_42
+  - first:
+      213: 8069898104012304544
+    second: hornworm_3colors_43
+  - first:
+      213: 3633579454114015104
+    second: hornworm_3colors_44
+  - first:
+      213: 9039581758464725550
+    second: hornworm_3colors_45
+  - first:
+      213: 8873635113040027235
+    second: hornworm_3colors_46
+  - first:
+      213: -4313822914137044478
+    second: hornworm_3colors_47
+  - first:
+      213: 3291476108397227458
+    second: hornworm_3colors_48
+  - first:
+      213: -6647444758526518995
+    second: hornworm_3colors_49
+  - first:
+      213: -9101852334359726633
+    second: hornworm_3colors_50
+  - first:
+      213: 7909809630034491225
+    second: hornworm_3colors_51
+  - first:
+      213: -5619938091664939903
+    second: hornworm_3colors_52
+  - first:
+      213: 6699106564638854825
+    second: hornworm_3colors_53
+  - first:
+      213: -6301730555779134694
+    second: hornworm_3colors_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hornworm_3colors_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5744d0401f39b4c30800000000000000
+      internalID: 4344728928893355125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 798
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db12cc5a74c2fa10800000000000000
+      internalID: 1941830419171384272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e669bc00912aba0800000000000000
+      internalID: -6079269055790420441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4cafe599f192620800000000000000
+      internalID: 2749763791070348477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 702
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a073d5a052b6060800000000000000
+      internalID: 6947687576592910980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 702
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08596044cd26a96f0800000000000000
+      internalID: -677120095792228992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 702
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9433fb5cec29b470800000000000000
+      internalID: 8410803172757681306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad5384c2bfefee90800000000000000
+      internalID: -6994108145202930266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf829f4eab3f6bc0800000000000000
+      internalID: -3787743141749944354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 702
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7102a173db88320800000000000000
+      internalID: 2560504432519288778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 606
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8588bdd7e6c3e0800000000000000
+      internalID: -2033683242241650948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 606
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5452fb9fc034d0800000000000000
+      internalID: -3156795070094221702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6169e32cb4df1ade0800000000000000
+      internalID: -1323498313646959082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 606
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe92f64789ea32ae0800000000000000
+      internalID: -1575223474837837329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 606
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83732b3a4f0023c60800000000000000
+      internalID: 7796294955650135864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 606
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c681df013472740800000000000000
+      internalID: 5127140441029373042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3cab22e9d4d7b20800000000000000
+      internalID: 3133746257302569983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 609
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0840ae82b9c404a0800000000000000
+      internalID: -6627950982848296948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 510
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c94f8b0e5408e0800000000000000
+      internalID: -1728152953261799078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 510
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6135ad17584927f40800000000000000
+      internalID: 5724801377203016470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 510
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd62ce07076a76bc0800000000000000
+      internalID: -3789877559547910437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5d045f4048b4b0800000000000000
+      internalID: -5424515041711006292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 510
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02647359361231c20800000000000000
+      internalID: 3175918873815238176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0af0374af081140800000000000000
+      internalID: 4690516210885828772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0826b004ef421fa0800000000000000
+      internalID: -5831510726808295411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d139a1f72200630800000000000000
+      internalID: 3891148007350148432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2562be39cbdb6f80800000000000000
+      internalID: -8112148646391028438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 318
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121618517f554c530800000000000000
+      internalID: 3874316099151552801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cadc8e162694bb0800000000000000
+      internalID: -4951318142660006830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7134e3588a89de0800000000000000
+      internalID: -1326124800031909946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e14845533eaa50800000000000000
+      internalID: 6534216550738682806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3489ad5e3b74bd0800000000000000
+      internalID: -2645948456260582446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410531590a2d57dd0800000000000000
+      internalID: -2488851631914659820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdaaa74ff5beee60800000000000000
+      internalID: 7993526496652864973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 222
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d939bd731053d23d0800000000000000
+      internalID: -3229867078406401123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93d2dd89db719d80800000000000000
+      internalID: -8245673268421143653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b49bdbaa036320800000000000000
+      internalID: 2549893547261474193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce7ba7351e8bad80800000000000000
+      internalID: -8238334871564747057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219b4e55fe2f8f680800000000000000
+      internalID: -8720953568650807022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 126
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5623b654bcb95b0800000000000000
+      internalID: -5360467432442796601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b85041ecd915c70800000000000000
+      internalID: 8958114642241358727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb453ed2d560e0120800000000000000
+      internalID: 2381848250197169339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683fe2d61b12b6790800000000000000
+      internalID: -7535892505549671546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07047c1990eff60800000000000000
+      internalID: 8069898104012304544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 103
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087af9113411d6230800000000000000
+      internalID: 3633579454114015104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 100
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22146f27bb037d70800000000000000
+      internalID: 9039581758464725550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 106
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1f2bee1c752b70800000000000000
+      internalID: 8873635113040027235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20acbea4ae83224c0800000000000000
+      internalID: -4313822914137044478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cda3b3e41cadad20800000000000000
+      internalID: 3291476108397227458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d299ef736388fb3a0800000000000000
+      internalID: -6647444758526518995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5bd6c8689bfa180800000000000000
+      internalID: -9101852334359726633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577b2753f945cd60800000000000000
+      internalID: 7909809630034491225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ef92d418f102b0800000000000000
+      internalID: -5619938091664939903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 10
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae49c95de108fc50800000000000000
+      internalID: 6699106564638854825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_3colors_54
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 19
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b4f809271cb88a0800000000000000
+      internalID: -6301730555779134694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dano: 2
-  Speed: 25
+  Speed: 3
   tempoDeVida: 2
   distancia: 3
   alvo: 0

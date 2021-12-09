@@ -7,14 +7,22 @@ public class PlayerScript : MonoBehaviour
 
     public CharacterController2D controller;
     public Animator animator;
-
+    public SpriteRenderer spriteRenderer;
     public AudioSource audioSource;
     public float volume = 0.5f;
 
     public float runSpeed = 40f;
-    float hMove = 0f;
-    bool jump = false;
-    bool crouch = false;
+    public float hMove = 0f;
+    public bool jump = false;
+    public bool crouch = false;
+
+    // Params
+    public int energia = 6;
+    public int atp = 0;
+    public int nv = 1;
+
+    // Axis
+    public int mnemonicAxis = 1;
 
     private bool estaAtirando = false;
     private float tempoUltimoTiro;
@@ -33,10 +41,25 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        updateLevel();
 
         Atirar();
         hMove = Input.GetAxisRaw("Horizontal") * runSpeed;
         // animator.SetFloat("speed", Mathf.Abs(hMove)); // desativei por enquanto porque começou a dar erro e não sei o que aconteceu 
+
+        // if (Input.GetButtonDown("w"))
+        if (Input.GetAxis("Horizontal") < 0f) mnemonicAxis = -1;
+        // if (Input.GetButtonDown("s"))
+        if (Input.GetAxis("Horizontal") > 0f) mnemonicAxis = 1;
+
+        switch (mnemonicAxis){
+            case 1:
+                spriteRenderer.flipX = false;
+                break;
+            case -1:
+                spriteRenderer.flipX = true;
+                break;
+        }
 
         if (Input.GetButtonDown("Jump"))
         {
@@ -57,9 +80,13 @@ public class PlayerScript : MonoBehaviour
     void FixedUpdate()
     {
         controller.Move(hMove * Time.fixedDeltaTime, crouch, jump);
+        animator.SetFloat("speed", Mathf.Abs(hMove));
         jump = false;
     }
 
+    void updateLevel(){
+        if(atp%5 == 0) nv++;
+    }
 
     void Atirar()
     {
@@ -77,15 +104,13 @@ public class PlayerScript : MonoBehaviour
             // projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(velocidadeProjetil, 0);
 
 
-            if (Input.GetAxis("Horizontal") > 0f || Input.GetAxis("Horizontal") == 0f)
+            if (mnemonicAxis == 1)
             {
                 projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(velocidadeProjetil, 0);
                 transform.eulerAngles = new Vector3(0f, 0f, 0f);
-            }
-            else if (Input.GetAxis("Horizontal") < 0f || Input.GetAxis("Horizontal") == 0f)
-            {
-                transform.eulerAngles = new Vector3(0f, 180f, 0f);
+            } else if (mnemonicAxis == -1) {
                 projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidadeProjetil, 0);
+                transform.eulerAngles = new Vector3(0f, 180f, 0f);
             }
 
         }

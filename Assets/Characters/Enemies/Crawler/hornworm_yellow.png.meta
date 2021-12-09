@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: 096e66dcd41792145aec85db42bd24f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1522233375460396830
+    second: hornworm_yellow_0
+  - first:
+      213: -270120548201459528
+    second: hornworm_yellow_1
+  - first:
+      213: -1054775268439434323
+    second: hornworm_yellow_2
+  - first:
+      213: 898295779234861130
+    second: hornworm_yellow_3
+  - first:
+      213: -6653830777939786227
+    second: hornworm_yellow_4
+  - first:
+      213: 5006164497373222589
+    second: hornworm_yellow_5
+  - first:
+      213: -6979109463505943530
+    second: hornworm_yellow_6
+  - first:
+      213: -3445856559896973159
+    second: hornworm_yellow_7
+  - first:
+      213: 7576528356385949158
+    second: hornworm_yellow_8
+  - first:
+      213: 5949429173499684633
+    second: hornworm_yellow_9
+  - first:
+      213: 6358141648934022241
+    second: hornworm_yellow_10
+  - first:
+      213: -6831984225831236575
+    second: hornworm_yellow_11
+  - first:
+      213: 5553320320258669310
+    second: hornworm_yellow_12
+  - first:
+      213: 7993730440570361310
+    second: hornworm_yellow_13
+  - first:
+      213: 9062159881409133210
+    second: hornworm_yellow_14
+  - first:
+      213: -5841815443683082609
+    second: hornworm_yellow_15
+  - first:
+      213: 1362353917924205114
+    second: hornworm_yellow_16
+  - first:
+      213: 4492990213128305870
+    second: hornworm_yellow_17
+  - first:
+      213: 8486527917549194489
+    second: hornworm_yellow_18
+  - first:
+      213: -4723044652101658764
+    second: hornworm_yellow_19
+  - first:
+      213: -8313370312971922557
+    second: hornworm_yellow_20
+  - first:
+      213: -2780225550572897498
+    second: hornworm_yellow_21
+  - first:
+      213: -1185295511489402753
+    second: hornworm_yellow_22
+  - first:
+      213: -3605272511154121054
+    second: hornworm_yellow_23
+  - first:
+      213: 2094352810287769319
+    second: hornworm_yellow_24
+  - first:
+      213: 7506054217613738334
+    second: hornworm_yellow_25
+  - first:
+      213: -8415559051414413827
+    second: hornworm_yellow_26
+  - first:
+      213: 7326798787547397620
+    second: hornworm_yellow_27
+  - first:
+      213: -4201084190706963703
+    second: hornworm_yellow_28
+  - first:
+      213: -8134041142586801053
+    second: hornworm_yellow_29
+  - first:
+      213: -2950977781976119635
+    second: hornworm_yellow_30
+  - first:
+      213: -3488150899572009166
+    second: hornworm_yellow_31
+  - first:
+      213: 5175245532509668654
+    second: hornworm_yellow_32
+  - first:
+      213: -2000877990286923447
+    second: hornworm_yellow_33
+  - first:
+      213: -696174314032531588
+    second: hornworm_yellow_34
+  - first:
+      213: 4878279032337518333
+    second: hornworm_yellow_35
+  - first:
+      213: -5886707156954615888
+    second: hornworm_yellow_36
+  - first:
+      213: 8003797955230742039
+    second: hornworm_yellow_37
+  - first:
+      213: 7584737463224213180
+    second: hornworm_yellow_38
+  - first:
+      213: 3006448820780789667
+    second: hornworm_yellow_39
+  - first:
+      213: -6648305162639478886
+    second: hornworm_yellow_40
+  - first:
+      213: -6264895407434327514
+    second: hornworm_yellow_41
+  - first:
+      213: 3720438445741441189
+    second: hornworm_yellow_42
+  - first:
+      213: -7750711194287106077
+    second: hornworm_yellow_43
+  - first:
+      213: -5693398098510083713
+    second: hornworm_yellow_44
+  - first:
+      213: -2109485156119203808
+    second: hornworm_yellow_45
+  - first:
+      213: 1794071862125675063
+    second: hornworm_yellow_46
+  - first:
+      213: 4939119897852488922
+    second: hornworm_yellow_47
+  - first:
+      213: 7178981988026908323
+    second: hornworm_yellow_48
+  - first:
+      213: 7703922990054855510
+    second: hornworm_yellow_49
+  - first:
+      213: -4479819049421900039
+    second: hornworm_yellow_50
+  - first:
+      213: 8332529063547558066
+    second: hornworm_yellow_51
+  - first:
+      213: 4985002345539102554
+    second: hornworm_yellow_52
+  - first:
+      213: -6117778510132202925
+    second: hornworm_yellow_53
+  - first:
+      213: -8464287835113997006
+    second: hornworm_yellow_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hornworm_yellow_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8f89903f002510800000000000000
+      internalID: 1522233375460396830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 798
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01be5eac6504cf0800000000000000
+      internalID: -270120548201459528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabdcc65b7fac51f0800000000000000
+      internalID: -1054775268439434323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d6887043677c00800000000000000
+      internalID: 898295779234861130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 702
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0686553928d8a3a0800000000000000
+      internalID: -6653830777939786227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 702
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65a192618797540800000000000000
+      internalID: 5006164497373222589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 702
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614492b7be8352f90800000000000000
+      internalID: -6979109463505943530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990346837bbdd20d0800000000000000
+      internalID: -3445856559896973159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e50f01e56c352960800000000000000
+      internalID: 7576528356385949158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 702
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176bc6df4e909250800000000000000
+      internalID: 5949429173499684633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 606
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c24509428ac3850800000000000000
+      internalID: 6358141648934022241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 606
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cc1444b8aef21a0800000000000000
+      internalID: -6831984225831236575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf9f4986b511d40800000000000000
+      internalID: 5553320320258669310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 606
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55c6cab7f6fee60800000000000000
+      internalID: 7993730440570361310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 606
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aff25166243cd70800000000000000
+      internalID: 9062159881409133210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 606
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef0e32ec3bdeea0800000000000000
+      internalID: -5841815443683082609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32eb389bad08e210800000000000000
+      internalID: 1362353917924205114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 609
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb1d04bce4a5e30800000000000000
+      internalID: 4492990213128305870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 510
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc84fd6d2436c570800000000000000
+      internalID: 8486527917549194489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 510
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771c25a9ef547eb0800000000000000
+      internalID: -4723044652101658764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 510
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383d7091fb9f0ac80800000000000000
+      internalID: -8313370312971922557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b33ae8797aa69d0800000000000000
+      internalID: -2780225550572897498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 510
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782fc3230cfc8fe0800000000000000
+      internalID: -1185295511489402753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a69d2ea0cf77fdc0800000000000000
+      internalID: -3605272511154121054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e62b8bd8c2a01d10800000000000000
+      internalID: 2094352810287769319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5180b9ca8cda2860800000000000000
+      internalID: 7506054217613738334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdde1a51ade53b80800000000000000
+      internalID: -8415559051414413827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 318
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7680ada40ea560800000000000000
+      internalID: 7326798787547397620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be665df20c2b5c0800000000000000
+      internalID: -4201084190706963703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36483b34da41e1f80800000000000000
+      internalID: -8134041142586801053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64e3d97550c07d0800000000000000
+      internalID: -2950977781976119635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371d04ec39979fc0800000000000000
+      internalID: -3488150899572009166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258aa6646a22d740800000000000000
+      internalID: 5175245532509668654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ec06a1147b34e0800000000000000
+      internalID: -2000877990286923447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 222
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f65e5621b656f0800000000000000
+      internalID: -696174314032531588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec6b50fe023b340800000000000000
+      internalID: 4878279032337518333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf68f4a7073e4ea0800000000000000
+      internalID: -5886707156954615888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716b68795d3331f60800000000000000
+      internalID: 8003797955230742039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe93128986624960800000000000000
+      internalID: 7584737463224213180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 126
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe70e064d09b920800000000000000
+      internalID: 3006448820780789667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6a76cda97cb3a0800000000000000
+      internalID: -6648305162639478886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a96ecd1de9e09a0800000000000000
+      internalID: -6264895407434327514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0002ffd07a1a330800000000000000
+      internalID: 3720438445741441189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79fdbdb31ff6490800000000000000
+      internalID: -7750711194287106077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 103
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f790c65289cfcf0b0800000000000000
+      internalID: -5693398098510083713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 100
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203e825d6a99b2e0800000000000000
+      internalID: -2109485156119203808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 106
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732468b6ad2d5e810800000000000000
+      internalID: 1794071862125675063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcaf86e0674b8440800000000000000
+      internalID: 4939119897852488922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae754d051ed0a360800000000000000
+      internalID: 7178981988026908323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535f2f6425d9ea60800000000000000
+      internalID: 7703922990054855510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6fd254f4c74d1c0800000000000000
+      internalID: -4479819049421900039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8de51290713a370800000000000000
+      internalID: 8332529063547558066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e85ab8394e2540800000000000000
+      internalID: 4985002345539102554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 10
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3523d01cbd8491ba0800000000000000
+      internalID: -6117778510132202925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_yellow_54
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 19
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbe574f0fc88a80800000000000000
+      internalID: -8464287835113997006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: f4b25e3b8c3d74c4f893a74169742553
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8427038102930047003
+    second: hornworm_green_0
+  - first:
+      213: 879912423117992051
+    second: hornworm_green_1
+  - first:
+      213: -4362896423259762496
+    second: hornworm_green_2
+  - first:
+      213: -6860219152833596953
+    second: hornworm_green_3
+  - first:
+      213: 5079234723001826041
+    second: hornworm_green_4
+  - first:
+      213: 6831738068933592830
+    second: hornworm_green_5
+  - first:
+      213: 918081365660770537
+    second: hornworm_green_6
+  - first:
+      213: 3163118724626235309
+    second: hornworm_green_7
+  - first:
+      213: 766085171505615274
+    second: hornworm_green_8
+  - first:
+      213: -6987797863971670675
+    second: hornworm_green_9
+  - first:
+      213: -3460502434379657252
+    second: hornworm_green_10
+  - first:
+      213: 3038914492599846704
+    second: hornworm_green_11
+  - first:
+      213: -8680148078730611967
+    second: hornworm_green_12
+  - first:
+      213: -5218275425032050649
+    second: hornworm_green_13
+  - first:
+      213: -6598185865041115397
+    second: hornworm_green_14
+  - first:
+      213: 2763640231506992409
+    second: hornworm_green_15
+  - first:
+      213: 7357066684504448424
+    second: hornworm_green_16
+  - first:
+      213: -2924714289672144916
+    second: hornworm_green_17
+  - first:
+      213: -5165999876863637373
+    second: hornworm_green_18
+  - first:
+      213: 6809794186176989632
+    second: hornworm_green_19
+  - first:
+      213: 8125935470310055517
+    second: hornworm_green_20
+  - first:
+      213: -9112392044620756326
+    second: hornworm_green_21
+  - first:
+      213: -8317101511268254383
+    second: hornworm_green_22
+  - first:
+      213: 285403276983384945
+    second: hornworm_green_23
+  - first:
+      213: 2546612514385613557
+    second: hornworm_green_24
+  - first:
+      213: 6510901114461923094
+    second: hornworm_green_25
+  - first:
+      213: -1850515807153723187
+    second: hornworm_green_26
+  - first:
+      213: -420178443983494876
+    second: hornworm_green_27
+  - first:
+      213: 6567058513257145705
+    second: hornworm_green_28
+  - first:
+      213: 6257642646468614778
+    second: hornworm_green_29
+  - first:
+      213: -4089705893895830315
+    second: hornworm_green_30
+  - first:
+      213: 4024635340195173002
+    second: hornworm_green_31
+  - first:
+      213: 197430638189756966
+    second: hornworm_green_32
+  - first:
+      213: 6316855909090965108
+    second: hornworm_green_33
+  - first:
+      213: -240089563179076656
+    second: hornworm_green_34
+  - first:
+      213: -6652804870851659830
+    second: hornworm_green_35
+  - first:
+      213: -281438437783507856
+    second: hornworm_green_36
+  - first:
+      213: 2529419919916819857
+    second: hornworm_green_37
+  - first:
+      213: -7976994764875054039
+    second: hornworm_green_38
+  - first:
+      213: -159600720721549026
+    second: hornworm_green_39
+  - first:
+      213: -2740556633519872828
+    second: hornworm_green_40
+  - first:
+      213: 6624191096917331417
+    second: hornworm_green_41
+  - first:
+      213: 3164902436457867975
+    second: hornworm_green_42
+  - first:
+      213: -7832966899766359328
+    second: hornworm_green_43
+  - first:
+      213: -667966862656271549
+    second: hornworm_green_44
+  - first:
+      213: -1233148343956370950
+    second: hornworm_green_45
+  - first:
+      213: -596183513443694092
+    second: hornworm_green_46
+  - first:
+      213: -2951543461476331693
+    second: hornworm_green_47
+  - first:
+      213: -4715275373458276992
+    second: hornworm_green_48
+  - first:
+      213: 89415131713079581
+    second: hornworm_green_49
+  - first:
+      213: 8211922678416256703
+    second: hornworm_green_50
+  - first:
+      213: 6541123685287165685
+    second: hornworm_green_51
+  - first:
+      213: 9145012204391533303
+    second: hornworm_green_52
+  - first:
+      213: -1305532864518742167
+    second: hornworm_green_53
+  - first:
+      213: -230393285105758475
+    second: hornworm_green_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hornworm_green_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c3d9918ad2f470800000000000000
+      internalID: 8427038102930047003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 798
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b665dfa3163c00800000000000000
+      internalID: 879912423117992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c097c391d0e373c0800000000000000
+      internalID: -4362896423259762496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 798
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b50a070b9bc0a0800000000000000
+      internalID: -6860219152833596953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 702
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7a53d1111d7640800000000000000
+      internalID: 5079234723001826041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 702
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6cc4dd3953fce50800000000000000
+      internalID: 6831738068933592830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 702
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0ad1b432eadbc00800000000000000
+      internalID: 918081365660770537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafbbbb98b7a5eb20800000000000000
+      internalID: 3163118724626235309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 702
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15943976ea1aa00800000000000000
+      internalID: 766085171505615274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 702
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653cbb9dda560f90800000000000000
+      internalID: -6987797863971670675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 606
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf0d66de53d9ffc0800000000000000
+      internalID: -3460502434379657252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 606
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037433251a46c2a20800000000000000
+      internalID: 3038914492599846704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 606
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f871df4be98780800000000000000
+      internalID: -8680148078730611967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 606
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72860d60626f497b0800000000000000
+      internalID: -5218275425032050649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 606
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf688381ae88e64a0800000000000000
+      internalID: -6598185865041115397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 606
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd3fde52c6a5620800000000000000
+      internalID: 2763640231506992409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_16
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 610
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9fbe8b2d891660800000000000000
+      internalID: 7357066684504448424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_17
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 609
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7359e69d35967d0800000000000000
+      internalID: -2924714289672144916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 510
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c4dd8b7eae48b0800000000000000
+      internalID: -5165999876863637373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 510
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c989948bbf318e50800000000000000
+      internalID: 6809794186176989632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 510
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed397d14f15c070800000000000000
+      internalID: 8125935470310055517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac84607b74a8180800000000000000
+      internalID: -9112392044620756326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_22
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 510
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbdfbcd38b39c80800000000000000
+      internalID: -8317101511268254383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bb35ea4c4f5f300800000000000000
+      internalID: 285403276983384945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 414
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d48cd692675320800000000000000
+      internalID: 2546612514385613557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a23f311e5b5a50800000000000000
+      internalID: 6510901114461923094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86b578da5a156e0800000000000000
+      internalID: -1850515807153723187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 318
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42166107ee93b2af0800000000000000
+      internalID: -420178443983494876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a5ed8ce0e22b50800000000000000
+      internalID: 6567058513257145705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad81225dc97d650800000000000000
+      internalID: 6257642646468614778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4848e58227e37c0800000000000000
+      internalID: -4089705893895830315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 318
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8211dab4806ad730800000000000000
+      internalID: 4024635340195173002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62244119e1a6db200800000000000000
+      internalID: 197430638189756966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b1be2bfaf9a750800000000000000
+      internalID: 6316855909090965108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 222
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3be6870d70bacf0800000000000000
+      internalID: -240089563179076656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_35
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 222
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f5e0d73d7ca3a0800000000000000
+      internalID: -6652804870851659830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ce5c16b31281cf0800000000000000
+      internalID: -281438437783507856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956076040e4a1320800000000000000
+      internalID: 2529419919916819857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_38
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 222
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924c87876850c4190800000000000000
+      internalID: -7976994764875054039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 126
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19ee777dfbf8cdf0800000000000000
+      internalID: -159600720721549026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4253c034697f9d0800000000000000
+      internalID: -2740556633519872828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd0018c4baddeb50800000000000000
+      internalID: 6624191096917331417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae6d16ffdfbeb20800000000000000
+      internalID: 3164902436457867975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 104
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea88020b16bb4390800000000000000
+      internalID: -7832966899766359328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 103
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b04ad6da7eab6f0800000000000000
+      internalID: -667966862656271549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 100
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98e1b5d1af2eee0800000000000000
+      internalID: -1233148343956370950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_46
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 106
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98e34d04ee9b7f0800000000000000
+      internalID: -596183513443694092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f83971cd20a07d0800000000000000
+      internalID: -2951543461476331693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d3fdac70aff8eb0800000000000000
+      internalID: -4715275373458276992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 14
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d198d4ba69aad3100800000000000000
+      internalID: 89415131713079581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea9f9da2c96f170800000000000000
+      internalID: 8211922678416256703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7f6dd55db6ca50800000000000000
+      internalID: 6541123685287165685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_52
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8e55c52c99ee70800000000000000
+      internalID: 9145012204391533303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_53
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 10
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f13c7d6c0d1ede0800000000000000
+      internalID: -1305532864518742167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hornworm_green_54
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 19
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec2a2278a7dccf0800000000000000
+      internalID: -230393285105758475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

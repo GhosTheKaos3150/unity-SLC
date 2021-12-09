@@ -7,6 +7,7 @@ TagManager:
   - Inimigo
   - InimigoPatrulha
   - InimigoWall
+  - "Antibi\xF3tico"
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
+  - Antibiotico
   - 
   - 
   - Inimigo
