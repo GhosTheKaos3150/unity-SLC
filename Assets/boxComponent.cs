@@ -23,7 +23,8 @@ public class boxComponent : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            audioSource.PlayOneShot(audioSource.clip, .5f);
+            var MACHINE = GameObject.FindGameObjectWithTag("GameController").GetComponent<GameControllerMachine>();
+            MACHINE.PlayAudioBoom();
             TakeDamage();
         }
     }

@@ -190,7 +190,7 @@ MonoBehaviour:
   hMove: 0
   jump: 0
   crouch: 0
-  energia: 6
+  energia: 35
   atp: 0
   nv: 1
   mnemonicAxis: 0

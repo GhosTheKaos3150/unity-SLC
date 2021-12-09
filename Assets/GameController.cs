@@ -6,6 +6,7 @@ public class GameController : MonoBehaviour
 {
 
         public GameObject gameOver;
+        public bool end = false;
 
         public static GameController instance;
     // Start is called before the first frame update
@@ -14,12 +15,29 @@ public class GameController : MonoBehaviour
         instance = this;
     }
 
-        public void ShowGameOver(){
+    public void ShowGameOver(){
         gameOver.SetActive(true);
     }
 
-        public void RestartGame(string lvlName){
-        SceneManager.LoadScene(lvlName);
+    public void ShowGameOver(bool end){
+        this.end = end;
+        gameOver.SetActive(true);
+    }
+
+    public void HideGameOver(){
+        gameOver.SetActive(false);
+    }
+
+    public void RestartGame(){
+        
+        if(end){
+            SceneManager.LoadScene("Title Scene", LoadSceneMode.Single);
+        } else {
+            SceneManager.LoadScene("LVL_1", LoadSceneMode.Single);
+        }
+
+        HideGameOver();
+
         Debug.Log(" recarregar pagina");
     }
 }

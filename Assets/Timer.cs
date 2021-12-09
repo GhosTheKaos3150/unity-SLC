@@ -14,6 +14,7 @@ public class Timer : MonoBehaviour
     private bool stopTimer;
     void Start()
     {
+        gameTime = 5;
         stopTimer = false;
         timerSlider.maxValue = gameTime;
         timerSlider.value = gameTime;
@@ -31,8 +32,8 @@ public class Timer : MonoBehaviour
 
         if(time <= 0){
             stopTimer = true;
-            GameController.instance.ShowGameOver();
-            // Destroy(gameObject);
+            GameController.instance.ShowGameOver(true);
+            Destroy(GameObject.FindGameObjectWithTag("Player"));
         } else if(stopTimer == false){
             timerText.text = textTime;
             timerSlider.value = time;

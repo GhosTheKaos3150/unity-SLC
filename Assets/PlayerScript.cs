@@ -85,7 +85,11 @@ public class PlayerScript : MonoBehaviour
     }
 
     void updateLevel(){
-        if(atp%5 == 0) nv++;
+        if(atp>= 50){
+            nv++;
+            energia += 5;
+            atp -= 50;
+        };
     }
 
     void Atirar()
@@ -122,17 +126,16 @@ public class PlayerScript : MonoBehaviour
         }
     }
 
-        void OnCollisionEnter2D(Collision2D collision){
-        if(collision.gameObject.tag == "Inimigo"){
+    void OnCollisionEnter2D(Collision2D collision){
+        if(collision.gameObject.tag == "Inimigo" || collision.gameObject.tag == "InimigoPatrulha"){
             Debug.Log(energia);
             // Debug.Log("tocou no player");
             energia--;
             Debug.Log(energia);
             if(energia <=0){
+                Destroy(GameObject.FindGameObjectWithTag("Player"));
                 GameController.instance.ShowGameOver();
             }
-            // GameController.instance.ShowGameOver();
-            // Destroy(gameObject);
         }
     }
 

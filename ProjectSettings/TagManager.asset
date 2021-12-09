@@ -8,6 +8,8 @@ TagManager:
   - InimigoPatrulha
   - InimigoWall
   - "Antibi\xF3tico"
+  - Timer
+  - Spawner
   layers:
   - Default
   - TransparentFX

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3909404493349180147}
   m_Layer: 0
   m_Name: Spawner
-  m_TagString: Untagged
+  m_TagString: Spawner
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -43,5 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa73861bb53b5784f8cfae68eb84e92e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 855023851390666770, guid: 9a8e3f069bac6284780d08113928be14, type: 3}
+  enemyPatrol: {fileID: 8033770618650866622, guid: bbb9bdbfa21e2774e8dbdd2cec0e85e8, type: 3}
+  enemyFollow: {fileID: 855023851390666770, guid: 9a8e3f069bac6284780d08113928be14, type: 3}
+  enemyWall: {fileID: 8543158751177028207, guid: d96a76050c43ab04aaeb3d08e9aa6f1f, type: 3}
+  antibiotico: {fileID: 4608169873322368151, guid: 329bd5721732bae4fa0ec447efaee986, type: 3}
   spawnRate: 2

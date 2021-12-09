@@ -5,16 +5,28 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     // Start is called before the first frame update
-    public GameObject enemy;
+    public GameObject enemyPatrol;
+    public GameObject enemyFollow;
+    public GameObject enemyWall;
+    public GameObject antibiotico;
     public float spawnRate;
     private float nextSpawn = 0f;
     // Update is called once per frame
-    void Update()
-    {
-        
-        if(Time.time > nextSpawn){
-            nextSpawn = Time.time + spawnRate;
-            Instantiate(enemy, transform.position, enemy.transform.rotation);
-        }
+    
+    public void SpawnPatrol(){
+        Instantiate(enemyPatrol, transform.position, enemyPatrol.transform.rotation);
     }
+
+    public void SpawnFollow(){
+        Instantiate(enemyFollow, transform.position, enemyFollow.transform.rotation);
+    }
+
+    public void SpawnWall(){
+        Instantiate(enemyWall, transform.position, enemyWall.transform.rotation);
+    }
+
+    public void SpawnANT(){
+        Instantiate(antibiotico, transform.position, antibiotico.transform.rotation);
+    }
+
 }
