@@ -24,8 +24,6 @@ public class PlayerScript : MonoBehaviour
     // Axis
     public int mnemonicAxis = 1;
 
-    public int energia;
-
     private bool estaAtirando = false;
     private float tempoUltimoTiro;
 
