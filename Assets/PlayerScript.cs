@@ -24,6 +24,8 @@ public class PlayerScript : MonoBehaviour
     // Axis
     public int mnemonicAxis = 1;
 
+    public int energia;
+
     private bool estaAtirando = false;
     private float tempoUltimoTiro;
 
@@ -112,7 +114,6 @@ public class PlayerScript : MonoBehaviour
                 projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidadeProjetil, 0);
                 transform.eulerAngles = new Vector3(0f, 180f, 0f);
             }
-
         }
 
 
@@ -121,5 +122,24 @@ public class PlayerScript : MonoBehaviour
         {
             estaAtirando = true;
         }
+    }
+
+        void OnCollisionEnter2D(Collision2D collision){
+        if(collision.gameObject.tag == "Inimigo"){
+            Debug.Log(energia);
+            // Debug.Log("tocou no player");
+            energia--;
+            Debug.Log(energia);
+            if(energia <=0){
+                GameController.instance.ShowGameOver();
+            }
+            // GameController.instance.ShowGameOver();
+            // Destroy(gameObject);
+        }
+    }
+
+    
+    public void TakeDamage(int damage){
+        energia -= damage;
     }
 }

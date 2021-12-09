@@ -33,7 +33,7 @@ public class Timer : MonoBehaviour
             stopTimer = true;
             GameController.instance.ShowGameOver();
             // Destroy(gameObject);
-        } if(stopTimer == false){
+        } else if(stopTimer == false){
             timerText.text = textTime;
             timerSlider.value = time;
         }

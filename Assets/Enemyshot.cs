@@ -19,9 +19,12 @@ public class Enemyshot : MonoBehaviour
     public BoxCollider2D deadCollider;
     public AudioSource audioSource;
 
+    public int energia;
+
     void Update()
     {
         Atirar();
+
 
         if (energia <= 0)
         {

@@ -36,7 +36,7 @@ public class Projectgun : MonoBehaviour
         }
 
         if(hitInfo.collider != null){
-            if(hitInfo.collider.CompareTag("Inimigo")){
+            if(hitInfo.collider.CompareTag("Player")){
                 Debug.Log(" ta acertando o player");
                 // hitInfo.collider.GetComponent<EnemyFollow>().TakeDamage(dano);
                 // hitInfo.collider.GetComponent<SystemRonda>().TakeDamage(dano);
