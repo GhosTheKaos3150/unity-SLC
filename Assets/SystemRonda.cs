@@ -23,13 +23,13 @@ public class SystemRonda : MonoBehaviour{
             timer = 0f;
         }
 
-            if(energia <= 0){
+        if(energia <= 0){
             Invoke("DestroyBody", .5f);
         }
 
     }
 
-        public void TakeDamage(int damage){
+    public void TakeDamage(int damage){
         energia -= damage;
     }
     

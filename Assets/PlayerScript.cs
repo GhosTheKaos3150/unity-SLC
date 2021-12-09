@@ -8,6 +8,9 @@ public class PlayerScript : MonoBehaviour
     public CharacterController2D controller;
     public Animator animator;
 
+    public AudioSource audioSource;
+    public float volume = 0.5f;
+
     public float runSpeed = 40f;
     float hMove = 0f;
     bool jump = false;
@@ -23,6 +26,11 @@ public class PlayerScript : MonoBehaviour
     public GameObject projetilPrefab; // prefabricado do tiro
 
     public float velocidadeProjetil;
+
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -40,7 +48,8 @@ public class PlayerScript : MonoBehaviour
         if (Input.GetButtonDown("Crouch"))
         {
             crouch = true;
-        } else if (Input.GetButtonUp("Crouch"))
+        }
+        else if (Input.GetButtonUp("Crouch"))
         {
             crouch = false;
         }
@@ -54,11 +63,14 @@ public class PlayerScript : MonoBehaviour
     }
 
 
-        void Atirar(){
-        if (Input.GetMouseButtonDown(0)){
-            // Debug.Log(" ta atirando verde");
+    void Atirar()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            audioSource.PlayOneShot(audioSource.clip, volume);
+            Debug.Log(" ta atirando verde");
             Transform shotPoint = tiroverde;
-            
+
             GameObject projectile = Instantiate(projetilPrefab, shotPoint.position, transform.rotation);
 
             // estaAtirando = true;
@@ -66,19 +78,23 @@ public class PlayerScript : MonoBehaviour
 
             // projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(velocidadeProjetil, 0);
 
-            if(Input.GetAxis("Horizontal") > 0f || Input.GetAxis("Horizontal") == 0f){
+
+            if (Input.GetAxis("Horizontal") > 0f || Input.GetAxis("Horizontal") == 0f)
+            {
                 projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(velocidadeProjetil, 0);
                 transform.eulerAngles = new Vector3(0f, 0f, 0f);
             }
-            else if(Input.GetAxis("Horizontal") < 0f || Input.GetAxis("Horizontal") == 0f){
-                projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(- velocidadeProjetil, 0);
+            else if (Input.GetAxis("Horizontal") < 0f || Input.GetAxis("Horizontal") == 0f)
+            {
                 transform.eulerAngles = new Vector3(0f, 180f, 0f);
+                projectile.GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidadeProjetil, 0);
             }
         }
 
 
         tempoUltimoTiro -= Time.deltaTime;
-        if(tempoUltimoTiro <= 0 ){
+        if (tempoUltimoTiro <= 0)
+        {
             estaAtirando = true;
         }
     }

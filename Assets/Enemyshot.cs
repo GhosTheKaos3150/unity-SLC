@@ -12,6 +12,7 @@ public class Enemyshot : MonoBehaviour
     public GameObject projetilPrefab; // prefabricado do tiro
 
     public float velocidadeProjetil;
+    public int energia;
 
     public int energia;
 
@@ -19,7 +20,9 @@ public class Enemyshot : MonoBehaviour
     {
         Atirar();
 
-        if(energia <= 0){
+
+        if (energia <= 0)
+        {
             Invoke("DestroyBody", .5f);
         }
     }
@@ -44,11 +47,13 @@ public class Enemyshot : MonoBehaviour
         }
     }
 
-        private void DestroyBody(){
-        Destroy(gameObject);
+    public void TakeDamage(int damage)
+    {
+        energia -= damage;
     }
 
-        public void TakeDamage(int damage){
-        energia -= damage;
+    private void DestroyBody()
+    {
+        Destroy(gameObject);
     }
 }
